@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog changes
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
